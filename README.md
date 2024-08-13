@@ -1,5 +1,5 @@
 Bijay Abiral Bhandari
-👋 Hi there! I'm Bijay Abiral Bhandari, a passionate coder who loves diving deep into the world of programming and exploring the vast realms of spirituality.
+👋 Hi there! **I'm Bijay Abiral Bhandari, a passionate coder who loves diving deep into the world of programming and exploring the vast realms of spirituality.
 
 About Me
 🌱 Always Learning: I believe that the journey of learning never ends. Whether it's mastering new coding languages or understanding spiritual concepts, I'm always eager to expand my knowledge.
